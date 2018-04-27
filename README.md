@@ -32,7 +32,15 @@ web3.js library -- Ethereum JavaScript API
 
 ## general reference
 
-* 正本清源区块链 *by 曹政* at 易灵微课
+* 正本清源区块链 *by 曹政* @易灵微课
+
+* 聊聊比特币背后的技术和 Blockchain *by Jan* @Teahour.fm
+
+## technical reference
 
 * [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) *by 
-Stephen Grider* at Udemy
+Stephen Grider* @Udemy
+
+* [Blockchain Demo](https://anders.com/blockchain/) *by Anders Brownworth*
+
+* [Remix](http://remix.ethereum.org/) -- online Solidity IDE
